@@ -1,0 +1,8 @@
+node --version
+#Verificar versão do Node instalado
+
+NPM init
+#Inicio
+
+NPM install typescript --dev
+#Iniciar o TypeScript apenas para desenvolvimento
